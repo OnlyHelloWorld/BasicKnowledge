@@ -2,7 +2,7 @@
  * All rights Reserved, Designed By 吉大16沈通
  * @Title:  XOfAKindInADeckOfCardsBy914Test.java   
  * @Package com.star.testCode.testDataStructure   
- * @Description:    TODO 
+ * @Description:  测试XOfAKindInADeckOfCardsBy914Test
  * @author: 吉大16沈通 
  * @date:   2018年12月25日 下午1:44:57   
  * @version V1.0 
